@@ -1,0 +1,3 @@
+interface:
+  display_name: "Revisión de ingeniería"
+  short_description: "Encuentra fallos reales en cambios de código"
