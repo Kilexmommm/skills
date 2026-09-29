@@ -1,0 +1,3 @@
+interface:
+  display_name: "Extensiones Chrome"
+  short_description: "Crea extensiones de Chrome con Manifest V3"
