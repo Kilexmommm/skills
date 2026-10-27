@@ -20,7 +20,7 @@ El contenido se prepara para su publicación: instrucciones reutilizables, ejemp
 
 ## Revisar una respuesta de un agente
 
-[`review-response`](analisis/review-response/SKILL.md) comprueba análisis, recomendaciones y propuestas para confirmar, matizar o refutar sus conclusiones con evidencia. Investiga el supuesto que podría cambiar el resultado y entrega una conclusión corregida cuando corresponda.
+[`review-response`](analisis/review-response/SKILL.md) verifica respuestas, negocios, ideas, investigaciones y diagnósticos. Comprueba evidencia, busca puntos ciegos y confirma, matiza o refuta con una prueba concreta, sin complacer ni contradecir por sistema. Por defecto entrega hasta cuatro puntos y 120 palabras: veredicto, evidencia, punto ciego y corrección o comprobación pendiente.
 
 Ejemplo: «Usa review-response con esta recomendación y los datos originales. Comprueba la evidencia y resuelve qué supuesto podría cambiar la elección».
 
