@@ -6,6 +6,7 @@ El contenido se prepara para su publicación: instrucciones reutilizables, ejemp
 
 ## Dominios
 
+- `analisis/`: revisión de respuestas de agentes, evidencia y supuestos decisivos.
 - `diseno/`: revisión UX de interfaces y flujos.
 - `ingenieria/`: revisión de cambios de código.
 - `extensiones/`: construcción y depuración de extensiones Chrome MV3.
@@ -15,7 +16,13 @@ El contenido se prepara para su publicación: instrucciones reutilizables, ejemp
 
 1. Sincroniza este repositorio en SkillBridge. Si el repositorio es privado, configura el acceso de lectura en la aplicación; nunca guardes credenciales en los skills ni en Git.
 2. Abre una página de chat web y selecciona texto.
-3. Elige uno de los cuatro skills importados. Confirma que el prompt correcto queda insertado y envíalo manualmente.
+3. Elige uno de los skills importados. Confirma que el prompt correcto queda insertado y envíalo manualmente.
+
+## Revisar una respuesta de un agente
+
+[`revisar-respuesta`](analisis/revisar-respuesta/SKILL.md) comprueba análisis, recomendaciones y propuestas para confirmar, matizar o refutar sus conclusiones con evidencia. Investiga el supuesto que podría cambiar el resultado y entrega una conclusión corregida cuando corresponda.
+
+Ejemplo: «Usa revisar-respuesta con esta recomendación y los datos originales. Comprueba la evidencia y resuelve qué supuesto podría cambiar la elección».
 
 Los skills contienen instrucciones de dominio y no ejecutan código ni publican cambios.
 
