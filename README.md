@@ -6,6 +6,7 @@ El contenido se prepara para su publicación: instrucciones reutilizables, ejemp
 
 ## Dominios
 
+- `negocios/`: exploración y validación de oportunidades de negocio.
 - `analisis/`: revisión de respuestas de agentes, evidencia y supuestos decisivos.
 - `diseno/`: revisión UX de interfaces y flujos.
 - `ingenieria/`: revisión de cambios de código.
@@ -25,6 +26,12 @@ El contenido se prepara para su publicación: instrucciones reutilizables, ejemp
 Ejemplo: «Usa review-response con esta recomendación y los datos originales. Comprueba la evidencia y resuelve qué supuesto podría cambiar la elección».
 
 Los skills contienen instrucciones de dominio y no ejecutan código ni publican cambios.
+
+## Explorar y validar un negocio
+
+[`venture-engineer`](negocios/venture-engineer/SKILL.md) acompaña ciclos de problema, divergencia controlada, filtro, hipótesis, MVP, testeo y aprendizaje hasta decidir si iterar o descartar. Incluye entrevistas, JTBD, Lean Canvas crítico, assumption mapping, OST y plantillas de experimentos y decisiones. No requiere plugins específicos.
+
+Ejemplo: «Usa venture-engineer: quiero vender un servicio que prepare propuestas comerciales con IA. Solo tengo comentarios positivos de conocidos. Ayúdame a elegir qué supuesto probar antes de construir».
 
 ## Crear o mejorar un skill
 

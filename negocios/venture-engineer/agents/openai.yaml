@@ -1,0 +1,4 @@
+interface:
+  display_name: "Venture Engineer"
+  short_description: "Valida negocios con evidencia y experimentos"
+  default_prompt: "Usa $venture-engineer para evaluar esta oportunidad, identificar el supuesto decisivo y diseñar la siguiente prueba."
