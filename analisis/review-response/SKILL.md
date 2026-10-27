@@ -1,5 +1,5 @@
 ---
-name: revisar-respuesta
+name: review-response
 description: "Revisa una respuesta de un agente cuando el usuario pide una segunda opinión, comprobar evidencia o refutar un análisis, recomendación o propuesta. Investiga el supuesto que podría cambiar la conclusión y confirma, matiza o refuta con fundamentos."
 ---
 

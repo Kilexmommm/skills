@@ -1,4 +1,0 @@
-interface:
-  display_name: "Revisar respuesta"
-  short_description: "Verifica evidencia y cuestiona conclusiones de agentes"
-  default_prompt: "Usa $revisar-respuesta para revisar esta respuesta: comprueba su evidencia, investiga el supuesto decisivo y confirma, matiza o refuta su conclusión."

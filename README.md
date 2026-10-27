@@ -20,9 +20,9 @@ El contenido se prepara para su publicación: instrucciones reutilizables, ejemp
 
 ## Revisar una respuesta de un agente
 
-[`revisar-respuesta`](analisis/revisar-respuesta/SKILL.md) comprueba análisis, recomendaciones y propuestas para confirmar, matizar o refutar sus conclusiones con evidencia. Investiga el supuesto que podría cambiar el resultado y entrega una conclusión corregida cuando corresponda.
+[`review-response`](analisis/review-response/SKILL.md) comprueba análisis, recomendaciones y propuestas para confirmar, matizar o refutar sus conclusiones con evidencia. Investiga el supuesto que podría cambiar el resultado y entrega una conclusión corregida cuando corresponda.
 
-Ejemplo: «Usa revisar-respuesta con esta recomendación y los datos originales. Comprueba la evidencia y resuelve qué supuesto podría cambiar la elección».
+Ejemplo: «Usa review-response con esta recomendación y los datos originales. Comprueba la evidencia y resuelve qué supuesto podría cambiar la elección».
 
 Los skills contienen instrucciones de dominio y no ejecutan código ni publican cambios.
 

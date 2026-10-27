@@ -1,0 +1,4 @@
+interface:
+  display_name: "Review Response"
+  short_description: "Verifica evidencia y cuestiona conclusiones de agentes"
+  default_prompt: "Usa $review-response para revisar esta respuesta: comprueba su evidencia, investiga el supuesto decisivo y confirma, matiza o refuta su conclusión."
